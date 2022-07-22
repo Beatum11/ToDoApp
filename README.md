@@ -1,2 +1,2 @@
 A note-taking app. 
-Used ASP.NET Core|C# + HTML|CSS.
+Used ASP.NET Core | C# + HTML | CSS.
